@@ -11,7 +11,7 @@ RW Prime theme is based on Magento Blank and includes our most common customizat
 * New CSS grid layout and flexbox utilities
 * Refactored mobile menu - removed additional tabs, included search and account links 
 * UI reference page with commonly used user interface elements (buttons, forms, typography, etc.), available at `/index.php/ui`
-* Included Slick carousel for custom banner and product carousels (requires WeltPixel_OwlCarouselSlider extension)
+* Included Slick carousel for custom banner and product carousels (requires WeltPixel_OwnCarouselSlider extension)
 * Lazy loading product images on product listing pages and in sliders (can be enabled/disabled via layout)
 * Lazy loading of carousel banners - added support for responsive and background images
 * Support for lazy loading of scripts, stylesheets, widgets via lazysizes unveilhooks plugin
@@ -19,15 +19,12 @@ RW Prime theme is based on Magento Blank and includes our most common customizat
 * Account dropdown containing dynamic customer actions
 * Removed redundant UI elements from product listing pages
 * Cart and checkout UI improvements 
-* CSS optimizations - async loading of main css files, preloading critical CSS on HP, PDP, PLP
 * UI optimizations on PDP - moved title to product details column, add qty +/- buttons, included social sharing buttons
 * Address autocomplete functionality in address forms in checkout
 * Minicart opens automatically when product is added to cart
 * Updated footer layout using flexbox
 * Styled form elements (checkboxes, radios, dropdowns etc.)
 * Included commonly used icons as icon-font
-* Added support for WeltPixel OwlCarouselSlider extension
-* Added support for Magefan Blog extension
 * Bunch of handy mixins 
 * and more...
 
