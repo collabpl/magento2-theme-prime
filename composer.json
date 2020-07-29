@@ -3,7 +3,7 @@
     "description": "Rocket Web Prime theme based on Magento Blank that includes our most common customizations.",
     "require": {
         "php": "~7.2|~7.3",
-        "magento/theme-frontend-blank": "*",
+        "magento/theme-frontend-blank": "~100.4",
         "rocketweb/module-ui-core": "~1.1",
         "rocketweb/module-checkout-enhancement": "~1.1",
         "staempfli/magento2-module-image-resizer": "~2.0"
